@@ -6,7 +6,6 @@ import fade
 from colorama import Fore
 from mcstatus import JavaServer
 import os
-import pwinput
 
 
 gre = Fore.GREEN
